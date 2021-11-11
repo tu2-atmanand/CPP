@@ -1,3 +1,3 @@
 # CPP
 
-This is where all my cpp files will exists
+This is a house to all my non-project C++ files
